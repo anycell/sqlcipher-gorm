@@ -1,4 +1,4 @@
-module sqlcipher-gorm
+module github.com/anycell/sqlcipher-gorm
 
 go 1.14
 
